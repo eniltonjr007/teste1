@@ -1,0 +1,11 @@
+Release - é a versão do cliente
+
+Release - é um teste da parte pronta do produto
+
+Versão é o projeto Beta, é a ultima versão do Release
+
+Release tem duração entre 3 a 6 meses
+
+Backlog - Lista de funcionalidades de prioridade
+
+User Story - Casos de usos de funcionalidades 
